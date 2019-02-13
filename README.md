@@ -8,6 +8,7 @@ Python Fundamentals
 Para executar estes scripts, faça da seguinte forma:
 
     python3 aula1.py
+    mkdir /app
 
 Aulas
 -----
